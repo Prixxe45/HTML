@@ -1,3 +1,3 @@
 # HTML
-this is about html
+This is about html.
 Author - prince tripathi
